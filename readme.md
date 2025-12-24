@@ -1,6 +1,9 @@
 # Spyder-E
 
-Spyder-E is a variation of Spyder which does not store any project-sensitive information data on disk.
+Spyder-E is a variation of Spyder which does not store any project-sensitive information data on disk. 
+
+!!!! WARNING !!!!!
+This is not production ready. There are still many points of failure to address. It is in beta.
 
 [Vanilla Spyder](https://github.com/spyder-ide/spyder)
 
